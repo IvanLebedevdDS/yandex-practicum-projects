@@ -1,1 +1,13 @@
-# yandex-practicum-projects
+# Проекты, выполненные в рамках программы "Data Science" Яндекс.Практикум:
+
+| Проект                          | Задача проекта                                                 | Технологии|
+|:------------------------------|:-------------------------------------------------------------|:--------|
+| 1. [Предобработка данных](https://github.com/IvanLebedevdDS/yandex-practicum-projects/tree/main/Проект%202%20Исследование%20надежности%20заемщиков)| Установить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.| pandas, pymystem3|
+| 2. [Исследовательский анализ](https://github.com/IvanLebedevdDS/yandex-practicum-projects/tree/main/Проект%203%20Анализ%20рынка%20недвижимости)| Установить параметры для определения рыночной стоимости объектов недвижимости.| pandas, numpy, matplotlib, seaborn, plotly|
+| 3. [Статистический анализ](https://github.com/IvanLebedevdDS/yandex-practicum-projects/tree/main/Проект%204%20Перспективный%20тариф%20для%20оператора)| Необходимо сделать предварительный анализ тарифов оператора "Мегалайн" на небольшой выборке клиентов.| pandas, numpy, matplotlib, seaborn, plotly scipy|
+| 4. [Анализ рынка компьютерных игр](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/4.%20Video%20games%20market%20analysis)| Для интернет-магазина компьютерных игр на основе исторических данных нужно определить, какие факторы делают игру успешной.| pandas, numpy, matplotlib, scipy, seaborn|
+| 5. [Анализ бизнес показателей](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/5.%20Marketing_analysis)| Оптимизировать маркетинговые затраты. Расчет бизнес-метрик: Retention, LTV, CAC, ROMI, когортный анализ  |pandas, numpy, matplotlib, seaborn|
+| 6. [Анализ результатов a/b теста](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/6.%20A:B%20tests)| Приоритизировать гипотезы для интернет-магазина, проанализировать результаты A/B теста|pandas, scipy|
+| 7. [Анализ заведений общественного питания Москвы](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/7.%20Visualization)| Для принятия решения об открытии нового кафе нужно проанализировать рынок общепита из открытых данных.| pandas, plotly, seaborn, requests, io|
+| 8. [Событийный анализ, мобильное приложение](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/8.%20Mobile%20app%20event%20analysis)| Исследование воронки продаж мобильного приложения. ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.| pandas, scipy, seaborn|
+| 9. [Предсказание оттока клиентов фитнес-центра](https://github.com/pocketmehdi/yandex-praktikum-projects/tree/master/9.%20ML_churn_model)| Предсказать отток, выделить группы пользователей, предложить стратегию взаимодействия с пользователями|pandas, scipy, seaborn|
